@@ -1,0 +1,2 @@
+Phashcat/hashcat/hashcat filter=lfs diff=lfs merge=lfs -text
+Phashcat/hashcat/hashcat.exe filter=lfs diff=lfs merge=lfs -text
