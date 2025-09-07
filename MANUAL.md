@@ -3,7 +3,7 @@
 
 A tiny, immutable, fluent wrapper around the `hashcat` CLI.
 
-- **Install**: `pip install Phashcat`
+- **Install**: `pip install "https://github.com/avitwil/Phashcat/releases/download/v0.1.1/phashcat-0.1.1-py3-none-any.whl"`
 - **Repo**: https://github.com/avitwil/Phashcat
 - **Author**: Avi Twil
 
@@ -24,7 +24,13 @@ A tiny, immutable, fluent wrapper around the `hashcat` CLI.
 
 ---
 
+## Installation
+> ```cli
+> pip install "https://github.com/avitwil/Phashcat/releases/download/v0.1.1/phashcat-0.1.1-py3-none-any.whl"
+> ```
 ## Core Concepts
+
+---
 
 ### Monoid Design
 - **Identity**: `HashcatBuilder.empty()` is the neutral element.
