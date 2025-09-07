@@ -6,9 +6,18 @@
 commands in Python without remembering every flag, while keeping everything
 type-checked and chainable.
 
-- **Install**: `pip install Phashcat`
+
 - **Repo**: https://github.com/avitwil/Phashcat
 - **Author**: Avi Twil
+
+---
+
+## Installation
+> ```cli
+> pip install "https://github.com/avitwil/Phashcat/releases/download/v0.1.1/phashcat-0.1.1-py3-none-any.whl"
+> ```
+
+---
 
 > **Import once, from one place**
 >
