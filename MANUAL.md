@@ -27,6 +27,8 @@ A tiny, immutable, fluent wrapper around the `hashcat` CLI.
 ## Installation
 > ```cli
 > pip install "https://github.com/avitwil/Phashcat/releases/download/v0.1.1/phashcat-0.1.1-py3-none-any.whl"
+> --or--
+> pip install Phashcat
 > ```
 ## Core Concepts
 
