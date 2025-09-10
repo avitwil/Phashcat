@@ -14,7 +14,7 @@ type-checked and chainable.
 
 ## Installation
 > ```cli
-> pip install "https://github.com/avitwil/Phashcat/releases/download/v0.1.1/phashcat-0.1.1-py3-none-any.whl"
+> pip install Phashcat
 > ```
 
 ---
